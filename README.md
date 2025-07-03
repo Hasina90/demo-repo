@@ -1,4 +1,4 @@
 # demo-repo
 It is demo repository
 <br>
-Author-Hasina Sheik.
+Author-Hasina Sheik (ISTS College).
